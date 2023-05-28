@@ -1,0 +1,38 @@
+﻿﻿.fa-footer {
+    color: white;
+    font-size: 33px !important;
+    margin-right: 10px;
+}
+
+.fa-footer:hover {
+    opacity: 0.7;
+    color: #D9D9D9;
+}
+
+#footer {
+    height: max-content;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: stretch;
+    text-align: center;
+    background-color: #003cb3;
+}
+
+#main-content, #dev {
+    display: inline-item;
+    justify-content: center;
+}
+#main-content{
+    margin-top: -15px;
+}
+#credits {
+    margin-top: 5px;
+    color: #fff;
+    font-weight: 500 !important;
+    font-size: 15px !important;
+}
+#contact{
+    color: white;
+    font-size: 14px;
+}
